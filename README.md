@@ -1,4 +1,4 @@
-Codigo feito em python para busca de produtos no Mercado Livre,
+Codigo feito em python para buscar produtos no Mercado Livre,
 
 Utiliza as seguintes bibliotecas:
 
